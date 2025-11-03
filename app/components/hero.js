@@ -21,7 +21,8 @@ export default function Hero() {
     
 
           <h1 className="mt-5 text-4xl sm:text-5xl lg:text-6xl font-semibold leading-tight tracking-tight">
-           Hi I am <span className='text-blue-400'>Kazim Ali</span>
+            
+          Hi I am <span className='text-blue-400 rounded-full'>Kazim Ali</span>
            <p className='text-lg'>A web developer from <span className='text-green-400'>Pakistan</span></p>
           </h1>
           <p className="mt-4 text-white/80 text-base sm:text-lg">
